@@ -1,0 +1,20 @@
+p{
+background-color: #ffc0cb;
+font-family: Verdana, Dejavu Sans, sans-serif;
+}
+div{
+    font-weight: bold;
+}
+
+.troika{
+    font-size: 24px;
+}
+#dvoika{
+    font-size: 36px;
+    color: blue;
+}
+#ctverka{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
